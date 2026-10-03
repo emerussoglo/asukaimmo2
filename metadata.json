@@ -1,0 +1,10 @@
+{
+  "name": "Remix ASUKAIMMO",
+  "description": "Plateforme immobilière moderne au Bénin et en Afrique : recherche, consultation, géolocalisation et publication d\u0027annonces de logements, terrains et bureaux.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
